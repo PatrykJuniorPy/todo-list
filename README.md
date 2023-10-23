@@ -1,7 +1,7 @@
-# lista zadan do wykonania
+# Todo list
 
-Prosta aplikacja do zarządzania codziennymi zadaniami
+A simple app to manage your daily tasks.
 
-## Właściwości
+## Features
 
-- lista codziennych zadań
+- List of daily tasks
